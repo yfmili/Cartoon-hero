@@ -1,0 +1,60 @@
+body{
+	margin: 0;
+	font-family: futura;
+}
+
+header {
+	background-color: #6B5B2D;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 15px;
+}
+
+header h1 {
+	color: white;
+	font-size: 40px;
+}
+
+header img{
+	border-radius: 200px;
+    width: 400px;
+    border: 10px solid #383A30;
+    max-width: 100%;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px 20px 100px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: 223333;
+}
+
+a{
+	color: 223333;
+}
+a:hover{
+	color: white;
+	background-color: #483a94;
+}
+
+footer{
+	background-color: #6B5B2D;
+	text-align: center;
+	color: white;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	opacity: 5;
+}
